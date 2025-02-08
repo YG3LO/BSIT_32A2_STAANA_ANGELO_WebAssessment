@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h1, h2 {
+    color: #1f1f1f;
+}
+footer .nav-item {
+    margin-left: 100px; 
+}
+
